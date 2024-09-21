@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bengaluru_housing
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -59,3 +60,6 @@ it is a mlops project
 
 --------
 
+=======
+# bengaluru-housing-mlops
+>>>>>>> origin/main
